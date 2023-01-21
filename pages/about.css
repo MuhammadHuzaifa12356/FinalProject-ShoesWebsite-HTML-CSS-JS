@@ -1,0 +1,169 @@
+/* about us start  */
+
+body{
+    padding: 0% 0% 0% 0% !important;
+    margin: 0% 0% 0% 0% !important;
+
+  
+       
+   
+}
+.about {
+    display: flex;
+    justify-content: center;
+}
+
+
+.aboutus h1 {
+
+    font-weight: bolder;
+    font-family: 'Righteous', cursive;
+    border-bottom: 5px solid red;
+
+}
+
+.container-fluid {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    padding: 20px !important;
+    margin: 0px !important;
+    
+   
+}
+ 
+.quality ul {
+    list-style: none;
+    cursor: grab;
+}
+.quality ul li:hover{
+    transform: translateY(-5px);
+    
+}
+.quality ul li::before {
+    content: "\2022";
+    color: red;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: -1em;
+}
+
+.vl {
+    border-left: 1px solid red;
+    border-width: 10px;
+
+}
+
+.query input {
+    border-bottom: 2px solid red;
+    background: transparent;
+    /* padding: 4px 4px 5px 4px;
+    margin: 4px 4px 5px 2px; */
+    color: white;
+    letter-spacing: 0.05em;
+    outline: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    font-family: 'Righteous', cursive;
+    font-size: 2sem;
+     
+
+}
+
+.query input:hover {
+    transform: translateY(-5px);
+
+}
+
+.text-danger {
+    font-family: 'Righteous', cursive !important;
+    font-size: 20px!important;
+
+}
+
+.query input::placeholder {
+    color: white;
+    font-size: 15px;
+
+    font-family: 'Righteous', cursive !important;
+}
+.btn1{
+    background-color: red !important;
+    color: white !important;
+    border: 2px red !important;
+    border-radius :   10px;
+    font-family: 'Righteous', cursive !important;
+    width: 150px;
+    
+
+}
+.btn1:hover {
+    transform: translateY(-5px) !important;
+
+}
+/* .foot{
+    width: 50px;
+    border-bottom: 2px solid red;
+    margin: -30px; 
+    margin-left: 20px;
+} */
+.newsletter{
+    display: flex;
+    justify-content: center;
+}
+.news input{
+    border: 2px solid white; 
+    padding: 4px 4px 5px 4px;
+    margin: 4px 4px 5px 2px;
+    border-radius: 30px;
+}
+.news button{
+    background-color: red;
+    border: 2px solid red;
+    font-family: 'Righteous', cursive !important;
+    color:  white;
+    border-radius: 30px;
+
+}
+.news p{
+    font-family: 'Righteous', cursive;
+
+}
+.refund p{
+     font-size: 10px ;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+.refund span{
+    font-size: small;
+}
+.news{
+    padding: 150px !important;
+    margin: 10px !important;
+}
+.news button:hover{
+
+    transform: translateY(-2px) !important;
+}
+.refund a{
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.refund {
+    padding: 40px !important;
+    margin: 10px;
+}
+.refund p{
+    font-family: 'Righteous', cursive !important;
+
+}
+.refund p:hover{
+    text-decoration: underline;
+
+}
+.links a{
+    text-decoration: none;
+    color: red;
+}
+.links a:hover{
+    text-decoration: underline;
+}

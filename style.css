@@ -1,0 +1,105 @@
+body{
+  margin: 0px !important;
+padding: 0% !important;
+
+}
+.cros{
+ height: 80vh !important;
+}
+.start{
+  background: red;
+  /* display: flex;
+  justify-content:  center; */
+
+}
+.items{
+  color: white;
+  height: 20px;
+  font-weight: bolder;
+}
+.items p{
+  font-weight: inherit;
+  font-weight: bolder;
+  font-size: 0.6rem;
+  text-decoration: dotted;
+}
+
+.name{
+  /* width: 100vh; */
+  text-align: center;
+}
+.name h1{
+ font-weight: bolder;
+  /* font-family: 'Alumni Sans Inline One', cursive; */
+/* font-family: 'Anton', sans-serif; */
+/* font-family: 'Bebas Neue', cursive; */
+/* font-family: 'Fredoka One', cursive; */
+/* font-family: 'Oswald', sans-serif; */
+font-family: 'Righteous', cursive;
+/* font-family: 'Roboto Slab', serif; */
+/* font-family: 'Rubik Mono One', sans-serif; */
+color: black;
+}
+
+
+.nv{
+  background-color: black;
+}
+
+.thrift h1{
+
+  /* font-weight: bolder; */
+  font-family:   'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 4em;
+}
+li a{
+  font-family: 'Righteous', cursive;
+
+
+}
+li a:hover{
+  text-decoration: underline red;
+
+
+}
+.nav-item a{
+font-size: small !important;
+}
+.name a{
+  text-decoration: none;
+}
+
+/* ..........................................................new arrivals........................................ */
+
+.newarrivals a{
+  text-decoration: none;
+font-family: 'Righteous', cursive;
+
+  
+}
+.newarrivals a h1{ 
+  font-size: 40px;
+ 
+} 
+.shoes:hover{
+  transform: translateY(-5px);
+    
+
+}
+.shoes{
+  box-shadow: 25rem;
+}
+.shoes button{
+   background-color: red;
+font-family: 'Righteous', cursive;
+
+}
+.shoes p{
+  /* box-shadow: 25px; */
+  /* border: 2px solid; */
+  font-family:   'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.shoes button:hover{
+  transform: translateY(-5px);
+}

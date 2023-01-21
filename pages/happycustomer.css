@@ -1,0 +1,25 @@
+.banner2{
+    background-image: url("https://footwearnews.com/wp-content/uploads/2019/01/12_2ebec9cd-129b-4694-8664-0c5e0fce260e-e1548956716566.jpg?w=700&h=437&crop=1");
+    height: 300px;
+     width: 100%;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+   
+  
+}
+.banner2 a{
+    color : white; 
+      
+ 
+ 
+}
+.banner2 a h1{
+    font-family: 'Righteous', cursive;
+        font-size: 2.6rem;
+ 
+        border: 2px solid red;
+ 
+}

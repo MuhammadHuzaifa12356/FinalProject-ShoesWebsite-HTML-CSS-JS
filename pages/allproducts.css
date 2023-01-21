@@ -1,0 +1,24 @@
+.banner{
+    background-image: url("https://wallpaperaccess.com/full/680096.jpg");
+    height: 300px;
+     width: 100%;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+ 
+
+}
+.banner a{
+    color: black; 
+      
+ 
+ 
+}
+.banner a h1{
+    font-family: 'Righteous', cursive;
+        font-size: 1.6rem;
+   
+ 
+}
